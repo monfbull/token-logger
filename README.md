@@ -1,3 +1,9 @@
 # token-logger
 
-It logs tokens
+It logs tokens...
+
+install python
+
+run setup.bat
+
+have fun
